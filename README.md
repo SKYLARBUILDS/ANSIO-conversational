@@ -122,7 +122,7 @@ would talk over a 2-second pause. **This is why it has to be Moss.**
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/SkylarWJY/ANSIO-conversational.git
+git clone https://github.com/skylarbuilds/ANSIO-conversational.git
 cd ANSIO-conversational
 
 # 1. Backend deps (LiveKit worker + Moss tools + token server)
@@ -182,7 +182,7 @@ Built by a cross-border team for the YC × Moss Conversational AI Hackathon.
 | | Role |
 |---|---|
 | [**@baizhiyuan**](https://github.com/baizhiyuan) | Backend — LiveKit agent, Moss retrieval & recall chain, alpha scoring, token server |
-| [**@SkylarWJY**](https://github.com/SkylarWJY) | Frontend — three-panel console design & demo |
+| [**@SkylarWJY**](https://github.com/skylarbuilds) | Frontend — three-panel console design & demo |
 | [**@clfhaha1234**](https://github.com/clfhaha1234) | Product — PRD & retrieval contract |
 
 <sub>Engineered with [Claude Code](https://claude.com/claude-code).</sub>
@@ -199,5 +199,5 @@ for the tools and the arena.
 
 ## 🛰 More from Skylar
 
-- [**skylarnyc.com**](https://skylarnyc.com) — NYC date-spot guide: 100 review-backed picks, built with the open-source [city-food-guide](https://github.com/SkylarWJY/city-food-guide) engine
-- More projects → [github.com/SkylarWJY](https://github.com/SkylarWJY)
+- [**skylarnyc.com**](https://skylarnyc.com) — NYC date-spot guide: 100 review-backed picks, built with the open-source [city-food-guide](https://github.com/skylarbuilds/city-food-guide) engine
+- More projects → [github.com/skylarbuilds](https://github.com/skylarbuilds)
